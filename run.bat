@@ -1,0 +1,1 @@
+javac Main.java Lexer/*.java Parser/*.java Executor/*.java Style.java && java Main.java
