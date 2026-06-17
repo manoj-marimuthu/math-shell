@@ -36,7 +36,7 @@ Written in **Java** using Interpreter theory, this application runs using the cl
 - Add multiple core mathematical constants, functions and operations
 - Matrix and set theory incorporation
 - Variables and Constants
- 
+ - Next version may take time, since i am invested in other projects.
 ## Author
 Manoj K M  
 Written with Java ☕ and Curiosity
